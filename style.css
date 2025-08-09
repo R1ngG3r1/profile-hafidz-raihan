@@ -59,10 +59,6 @@ body {
   text-decoration: none;
 }
 
-.li_navbar :hover {
-  color: #ff00d4;
-}
-
 /* home */
 .home_container {
   background-color: #000000;
